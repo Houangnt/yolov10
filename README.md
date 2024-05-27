@@ -1,5 +1,5 @@
 # [YOLOv10: Real-Time End-to-End Object Detection](https://arxiv.org/abs/2405.14458)
-
+Tóm tắt : https://viblo.asia/p/tom-tat-yolov10-real-time-end-to-end-object-detection-WR5JRZldJGv <br>
 
 Official PyTorch implementation of **YOLOv10**.
 
